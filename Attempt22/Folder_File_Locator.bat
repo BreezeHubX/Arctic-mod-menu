@@ -10,4 +10,4 @@ powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BreezeH
 powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BreezeHubX/Arctic-mod-menu/main/Attempt22/Arctic-Injector1.81.dll -OutFile $env:userprofile\Downloads\Arctic\UI-Generator\Arctic-Injector1.81.dll"
 powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/BreezeHubX/Arctic-mod-menu/main/Attempt22/Arctic-Menu-UI.dll -OutFile $env:userprofile\Downloads\Arctic\UI-Generator\Arctic-Menu-UI.dll"
 
-exit
+
